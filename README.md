@@ -10,11 +10,11 @@ A virtual reality tool that aims to help newly diagnosed endometriosis patients 
 - The tool is navigated with handheld controllers or hand tracking on Meta Quest
 
 ## Built with:
-**Blender**: 3D animation
-**Unity**: VR app and interaction
-**ITK-SNAP**: Anatomical segmentaion of the uterus 
-**Sketch-Fab**: Used pre-existing models as a base
-**Meta Quest**: VR headset
+- **Blender**: 3D animation
+- **Unity**: VR app and interaction
+- **ITK-SNAP**: Anatomical segmentaion of the uterus
+- **Sketch-Fab**: Used pre-existing models as a base
+- **Meta Quest**: VR headset
 
 
 
